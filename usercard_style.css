@@ -6,13 +6,13 @@ th{
     margin-left: 80px;
 }
 .card{
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-    width : 30%;
+    box-shadow: 0 4px 8px 0 black;
+    width:33%;
     padding-left: 10px;
-    padding-top: 10px;
-    padding-bottom: 30px;
     padding-right: 10px;
-    transition: 0.5s;
+    transition:0.5s;
+    padding-bottom:10px;
+    padding-top: 10px;
 }
 .card:hover{
     box-shadow: 0 14px 18px 0 rgba(0,0,0,0.2);
