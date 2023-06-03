@@ -1,4 +1,7 @@
 
+th{
+    color:rgb(165, 42, 151);
+}
 .container{
     margin-left: 80px;
 }
@@ -9,7 +12,7 @@
     padding-top: 10px;
     padding-bottom: 30px;
     padding-right: 10px;
-    transition: 0.3s;
+    transition: 0.5s;
 }
 .card:hover{
     box-shadow: 0 14px 18px 0 rgba(0,0,0,0.2);
