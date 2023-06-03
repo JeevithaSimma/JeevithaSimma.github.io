@@ -1,0 +1,17 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+
+}
+
+.user_title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.user_designation{
+    font-size: 25px;
+    font-style: italic;
+    margin-top: 0;
+    margin-bottom: 0;
+}
