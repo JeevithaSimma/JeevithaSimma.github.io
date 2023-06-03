@@ -1,14 +1,17 @@
 h1 {
-  color: rgb(124, 51, 51);
+  color: rgb(117, 51, 124);
 }
+
 table, th, td {
-  border: 1px solid rgb(255, 255, 255);
+  border: 1px solid black;
   border-collapse: collapse;
 }
-th, td {
-  background-color: #ce96d4;
+
+th { 
+  background-color:#000;
+  color:rgba(129, 172, 171, 0.112);
 }
-p{
-  text-align: center;
-  color:black;
+td, th { 
+  padding:5px;
+  border:1px solid #000;
 }
