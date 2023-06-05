@@ -8,7 +8,7 @@ var changemypicture = function(){
         isdata1 = false;
     }
     else{
-        displaydata = data;
+        displaydata = data1;
         isdata1 = true;
     }
     document.getElementById("mypicture").src=displaydata.image;
