@@ -12,4 +12,7 @@ var changemypicture = function(){
         isdata1 = true;
     }
     document.getElementById("mypicture").src=displaydata.image;
+    document.getElementById("myname").innerHTML = displaydata.name;
+    document.getElementById("mydesigination").innerHTML = displaydata.designation;
+    
 }
