@@ -8,5 +8,5 @@ var changemypicture=function(){
         document.getElementById("myname").innerHTML= userinfo.name;
         document.getElementById("mydesigination").innerHTML= userinfo.username;
 
-    })
+    });
 }
